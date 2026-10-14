@@ -1,3 +1,5 @@
+> **Moved:** this repository has been merged into [joy7758/redcrag-aep](https://github.com/joy7758/redcrag-aep/tree/main/risk-linked-aep-demo) with full history. This repo is archived and read-only.
+
 # Risk-linked Agent Evidence Profile Demo
 
 ## Project Status
